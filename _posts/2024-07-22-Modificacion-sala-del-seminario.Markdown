@@ -14,7 +14,7 @@ _Los cambios siempre molestan_
 ![Descripción de la imagen](/images/p001.jpg "Leyenda de la imagen")
 
 
-Esta imagen es la cosa fea
+Hay que describir las fotos. 
 
 
 ![Descripción de la imagen](/images/002.jpg "Leyenda de la imagen")
