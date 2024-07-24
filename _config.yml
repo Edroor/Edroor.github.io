@@ -1,0 +1,36 @@
+title: Eduardo Rodriguez 
+description: 
+baseurl: ""
+url: 
+
+theme: cvless
+#Todo esto es la clase SITE-->
+# site settings
+taglong: Tec. TITULAR, Dep. DE SISMOLOGÍA,DIVISIÓN DE CIENCIAS DE LA TIERRA, CICESE
+tagshort: Edroor
+
+# author settings SITE-->Autor-->
+author:
+  name: Eduardo Rodriguez O.
+  email: erodriguez@cicese.mx
+photo: assets/files/photo.jpg
+address: Carretera Ensenada - Tijuana No. 3918, Zona Playitas, CP. 22860, Ensenada, B.C. México.
+phone: +52 (646) 175-05-00 ext. 26540
+
+# social media links
+social:
+  #facebook: username
+  github: edroor
+  #instagram: username
+  linkedin: eduardo-rodriguez-orozco
+  #stackoverflow: 0000000/username
+  x: edroor81
+  #google_scholar: username
+  
+
+# build settings
+permalink: pretty
+exclude:
+  - docker-compose.yml
+  - LICENSE
+  - README.md
